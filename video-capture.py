@@ -1,5 +1,5 @@
 import cv2
-import imutils
+
 
 # capture the video
 video = cv2.VideoCapture(0)
